@@ -1,10 +1,12 @@
 # Site settings
-title: CC Blog Demo
+title: CloudCannon Blog Demo
 email: team@variantstudios.com
 description:
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://delightful-gorilla.cloudvent.net" # the base hostname & protocol for your site
+url: "http://kind-rose.cloudvent.net/ # the base hostname & protocol for your site
 timezone: America/Denver
+
+version: 2.4.0
 
 # Site Author(s)
 author:
