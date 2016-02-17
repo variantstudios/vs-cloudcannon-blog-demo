@@ -6,7 +6,6 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://kind-rose.cloudvent.net/ # the base hostname & protocol for your site
 timezone: America/Denver
 
-version: 2.4.0
 
 # Site Author(s)
 author:
