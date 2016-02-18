@@ -1,6 +1,6 @@
 ---
 layout: post
-title: February post
+title: 'Happy February!'
 description: Et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque.
 date: 2016-02-01T09:51:00.000Z
 header-image_path: /img/photo-1439723680580-bfd9d28ef9b6.jpg
