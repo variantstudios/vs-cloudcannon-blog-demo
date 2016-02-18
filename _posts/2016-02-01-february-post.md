@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "February post"
-description:  "Et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque."
-date:   2016-02-01 09:51:55
-header-image_path: "/img/post-bg.jpg"
+title: February post
+description: Et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque.
+date: 2016-02-01T09:51:00.000Z
+header-image_path: /img/photo-1439723680580-bfd9d28ef9b6.jpg
 ---
 
 Facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Corrupti quos dolores et quas molestias excepturi sint occaecati. Animi, id est laborum et dolorum fuga. Nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam.
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco. Ut enim ad minim veniam, quis nostrud exercitation ullamco. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat.
 
-__t harum quidem rerum facilis est et expedita distinctio.__ *Accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.* Corrupti quos dolores et quas molestias excepturi sint occaecati.
+**t harum quidem rerum facilis est et expedita distinctio.** *Accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.* Corrupti quos dolores et quas molestias excepturi sint occaecati.
 
 ## Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat.
 
@@ -20,6 +20,7 @@ Ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis dolorib
 2. Et harum quidem rerum facilis est et expedita distinctio.
 3. At vero eos et accusamus.
 
+
 ### Esse cillum dolore eu fugiat nulla pariatur.
 
 Non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
@@ -27,6 +28,7 @@ Non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaera
 * Et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque.
 * Architecto beatae vitae dicta sunt explicabo.
 * At vero eos et accusamus.
+
 
 Architecto beatae vitae dicta sunt explicabo. Eaque ipsa quae ab illo inventore veritatis et quasi. Qui officia deserunt mollit anim id est laborum. Excepteur sint occaecat cupidatat non proident, sunt in culpa.
 
