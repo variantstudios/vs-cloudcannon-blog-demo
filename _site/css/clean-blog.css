@@ -393,3 +393,12 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
+
+
+.editor-link {
+  display: none;
+}
+
+.cms-editor-active .editor-link {
+  display: block;
+}

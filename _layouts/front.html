@@ -33,6 +33,8 @@ layout: default
                         </h3>
                     </a>
                     <p class="post-meta">Posted on {{ post.date | date: "%d %B %Y" }}</p>
+                     <!-- Editor Link -->
+                    <p><a href="cloudcannon:collections/{{ post.path }}" class="editor-link">Edit</a></p>
                 </div>
                 <hr>
                 {% endfor %}
