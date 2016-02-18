@@ -402,3 +402,9 @@ body {
 .cms-editor-active .editor-link {
   display: block;
 }
+
+
+.content img {
+  width: 100%;
+    height: auto;
+}

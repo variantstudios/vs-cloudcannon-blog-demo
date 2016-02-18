@@ -11,3 +11,7 @@ body{font-family:Lora,'Times New Roman',serif;font-size:20px;color:#404040}p{lin
 .cms-editor-active .editor-link {
   display: block;
 }
+.content img {
+  width: 100%;
+    height: auto;
+}
